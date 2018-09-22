@@ -29,6 +29,6 @@ x$pop #mostra as populações na matriz x
 x$canibais #mostra a lógica true or false para canibais na matriz x
 View(x) #mostra a matriz x
 
-#Salvar CNVAZQUEZ
+#Salvar KYQUEECONOMETRIA
 
 write.csv(x, file="C:/Econometria/Canibais.csv") #salva a última matriz x criada em formato excel no pendrive com o nome x
